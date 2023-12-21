@@ -1,0 +1,15 @@
+C:\Users\Nastya\Desktop\My_projects\two-dimensional arrays_5\Class_3\obj\Debug\net8.0\Class_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nastya\Desktop\My_projects\two-dimensional arrays_5\Class_3\obj\Debug\net8.0\Class_3.AssemblyInfoInputs.cache
+C:\Users\Nastya\Desktop\My_projects\two-dimensional arrays_5\Class_3\obj\Debug\net8.0\Class_3.AssemblyInfo.cs
+C:\Users\Nastya\Desktop\My_projects\two-dimensional arrays_5\Class_3\obj\Debug\net8.0\Class_3.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Desktop\My_projects\two-dimensional arrays_5\Class_3\obj\Debug\net8.0\Class_3.sourcelink.json
+C:\Users\Nastya\Desktop\My_projects\two-dimensional arrays_5\Class_3\bin\Debug\net8.0\Class_3.exe
+C:\Users\Nastya\Desktop\My_projects\two-dimensional arrays_5\Class_3\bin\Debug\net8.0\Class_3.deps.json
+C:\Users\Nastya\Desktop\My_projects\two-dimensional arrays_5\Class_3\bin\Debug\net8.0\Class_3.runtimeconfig.json
+C:\Users\Nastya\Desktop\My_projects\two-dimensional arrays_5\Class_3\bin\Debug\net8.0\Class_3.dll
+C:\Users\Nastya\Desktop\My_projects\two-dimensional arrays_5\Class_3\bin\Debug\net8.0\Class_3.pdb
+C:\Users\Nastya\Desktop\My_projects\two-dimensional arrays_5\Class_3\obj\Debug\net8.0\Class_3.dll
+C:\Users\Nastya\Desktop\My_projects\two-dimensional arrays_5\Class_3\obj\Debug\net8.0\refint\Class_3.dll
+C:\Users\Nastya\Desktop\My_projects\two-dimensional arrays_5\Class_3\obj\Debug\net8.0\Class_3.pdb
+C:\Users\Nastya\Desktop\My_projects\two-dimensional arrays_5\Class_3\obj\Debug\net8.0\Class_3.genruntimeconfig.cache
+C:\Users\Nastya\Desktop\My_projects\two-dimensional arrays_5\Class_3\obj\Debug\net8.0\ref\Class_3.dll
